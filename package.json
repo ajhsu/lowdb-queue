@@ -1,0 +1,12 @@
+{
+  "name": "lowdb-queue",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "AJ Hsu <im.ajhsu@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "lowdb": "^1.0.0"
+  }
+}
